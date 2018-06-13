@@ -1,0 +1,78 @@
+#mui-overlay {
+  outline: none;
+}
+.ui-slider-handle {
+  outline: none;
+  background-color: rgb(163, 254, 134) !important;
+}
+button {
+  outline: none;
+}
+.banner {
+  color: rgb(16, 110, 0); 
+  padding-left: 50px;
+}
+.mainbody{
+  background-color: rgb(235, 254, 190);
+  border-top: 5px solid rgb(16, 110, 0);
+}
+.tooltip-ticket{
+  text-align: center;  
+  margin-bottom: 120px;
+}
+#tobuycount {
+  margin-top: 150px; 
+  margin-bottom: 30px;
+}
+.buy-container {
+  text-align: center;
+}
+.chk-ticket {
+  text-align:center; 
+  padding: 10px; 
+  height: 100px; 
+  background-color: rgb(244, 120, 122); 
+  border-radius: 10px;
+}
+.copy-tickets {
+  text-align:center; 
+  padding: 10px; 
+  height: 100px; 
+  background-color: rgb(255, 175, 132); 
+  border-radius: 10px;
+}
+.othr-tkt-container {
+  color: rgb(158, 158, 158);
+}
+.notify-switch {
+  text-align: center; 
+  padding: 5px; 
+  height: 55px; 
+  background-color: rgb(220, 254, 135); 
+  border-radius: 10px;
+}
+.withdraw-winnings  {
+  text-align:center; 
+  padding: 17px; 
+  height: 55px; 
+  background-color: rgb(255, 175, 132); 
+  border-radius: 10px;
+}
+.notify-withdraw-container {
+  margin: 10px;
+}
+.white-bkg {
+  background-color: #FFF;
+  padding: 10px;
+  border-radius: 10px;
+}
+.reserved-for {
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+.buy-btn {
+  background-color: rgb(255, 125, 127);
+  padding: 10px;
+  border-radius: 10px;
+}
